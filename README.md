@@ -1,1 +1,1 @@
-# Redering
+# Rendering
